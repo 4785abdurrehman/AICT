@@ -1,0 +1,28 @@
+/* Hero Section for Kids */
+.hero {
+    background-color: #ffcc00; /* A bright yellow color for kids' theme */
+    color: #000;
+    padding: 40px;
+    text-align: center;
+}
+
+.hero h2 {
+    font-size: 2.5em;
+    margin: 0;
+}
+
+.hero p {
+    font-size: 1.2em;
+    margin: 10px 0 0;
+}
+
+/* Header Styling */
+header h1 {
+    font-size: 2.5em;
+    color: #ffcc00;
+}
+
+/* Product Section */
+.products .product-box img {
+    border: 2px solid #ffcc00; /* Matching border for kids' theme */
+}

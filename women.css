@@ -1,0 +1,23 @@
+/* Hero Section for Women */
+.hero {
+    background-color: #e91e63; /* A vibrant pink tone for women's fashion */
+    color: #fff;
+    padding: 40px;
+    text-align: center;
+}
+
+.hero h2 {
+    font-size: 2.5em;
+    margin: 0;
+}
+
+.hero p {
+    font-size: 1.2em;
+    margin: 10px 0 0;
+}
+
+/* Header Styling */
+header h1 {
+    font-size: 2.5em;
+    color: #e91e63;
+}
